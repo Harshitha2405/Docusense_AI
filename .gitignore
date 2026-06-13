@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+chroma_db/
+*.sqlite3
+*.log
+dist/
+build/
+.DS_Store
