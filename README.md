@@ -133,6 +133,3 @@ The following checks pass in the current workspace:
 - `pip install -r requirements.txt`
 - `python -m unittest discover -s tests -v`
 
-## License
-
-No license has been added yet. Add one before publishing publicly on GitHub if needed.
